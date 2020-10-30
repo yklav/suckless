@@ -1,2 +1,2 @@
 # suckless
-my suckless desktop
+My suckless desktop
